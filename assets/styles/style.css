@@ -79,8 +79,10 @@ a {
   color: #151b29;
 }
 .skills {
-  margin-left: -20px;
   margin-bottom: 0px;
+}
+.skills__list {
+  margin-left: -20px;
 }
 .skills li {
   padding: 5px;
